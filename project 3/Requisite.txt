@@ -1,0 +1,109 @@
+Project 3: Country Information App 
+Problem Statement:
+You are required to build a simple country information app. The HTML and CSS have been provided, and your task is to write the JavaScript code to fetch country data from a countries API and display it on the webpage. 
+
+HTML File (index.html):
+```html
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="styles.css">
+
+    <title>Country Information App</title>
+
+</head>
+
+<body>
+
+    <div class="country-container">
+
+        <h1>Country Information App</h1>
+
+        <div class="country-info">
+
+            <p>Loading...</p>
+
+        </div>
+
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
+
+```
+
+ 
+
+CSS File (styles.css):
+```css
+
+body {
+
+    font-family: Arial, sans-serif;
+
+    margin: 0;
+
+    padding: 0;
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    height: 100vh;
+
+    background-color: #f0f0f0;
+
+}
+
+ 
+
+.country-container {
+
+    background-color: #fff;
+
+    padding: 20px;
+
+    border-radius: 8px;
+
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+}
+
+ 
+
+.country-info {
+
+    margin-top: 20px;
+
+}
+
+```
+
+ 
+
+JavaScript File (script.js):
+```js
+
+// TODO: Write JavaScript code here to fetch country data from the API and update the HTML accordingly
+
+```
+
+ 
+
+API Link: You can use the Rest Countries API (https://restcountries.com) to get country information. 
+
+ 
+---

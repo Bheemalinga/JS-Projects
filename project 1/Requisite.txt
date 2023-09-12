@@ -1,0 +1,114 @@
+Project 1: Weather Forecast
+
+Problem Statement:
+You are tasked with creating a simple weather forecast application.
+ The HTML and CSS for the application have been provided to you,
+  and your job is to write the JavaScript code to fetch weather data
+   from an open weather API and display it on the webpage. 
+
+HTML File (index.html):
+```html
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="styles.css">
+
+    <title>Weather Forecast</title>
+
+</head>
+
+<body>
+
+    <div class="weather-container">
+
+        <h1>Weather Forecast</h1>
+
+        <div class="weather-data">
+
+            <p>Loading...</p>
+
+        </div>
+
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
+
+```
+
+ 
+
+CSS File (styles.css):
+```css
+
+body {
+
+    font-family: Arial, sans-serif;
+
+    margin: 0;
+
+    padding: 0;
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    height: 100vh;
+
+    background-color: #f0f0f0;
+
+}
+
+ 
+
+.weather-container {
+
+    background-color: #fff;
+
+    padding: 20px;
+
+    border-radius: 8px;
+
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+}
+
+ 
+
+.weather-data {
+
+    margin-top: 20px;
+
+}
+
+```
+
+ 
+
+JavaScript File (script.js):
+```js
+
+// TODO: Write JavaScript code here to fetch weather data from the API and update the HTML accordingly
+
+```
+
+ 
+
+API Link: You can use the OpenWeatherMap API (https://openweathermap.org/api) to get the weather data.
+
+ 
+
+---
