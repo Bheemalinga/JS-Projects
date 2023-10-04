@@ -1,4 +1,4 @@
-# JS-Projects
+# Assignment JS-Projects
 
 Project 1: A simple Weather Forecast Web Application
 
