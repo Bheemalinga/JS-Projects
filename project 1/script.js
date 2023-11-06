@@ -5,7 +5,7 @@
 //  API Link: You can use the OpenWeatherMap API
   //  (https://openweathermap.org/api) to get the weather data.
 
-//  API Key: 956aa1c0f75f03fe9fe51bf103e9102b
+//  Key: 956aa1c0f75f03fe9fe51bf103e9102b
 
 
 
